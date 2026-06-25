@@ -14,7 +14,7 @@ Instead of prompting another LLM to check the output (which is expensive and slo
 * **Representation Drift** (between layers and tokens)
 * **Token Entropy & Model Uncertainty**
 * **Context Centroid Distance** (how far a token drifts from the local context in the embedding space)
-* **Candidate Dispersion** in the embedding space.
+* **Prediction spread** of candidates in the unembedding space.
 
 ## Key Results & Tech Stack
 
